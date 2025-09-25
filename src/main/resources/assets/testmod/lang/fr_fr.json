@@ -3,5 +3,8 @@
   "item.testmod.raw_pink_garnet": "Grenat rose brut",
 
   "block.testmod.pink_garnet_block": "Bloc de grenat rose",
-  "block.testmod.raw_pink_garnet_block": "Bloc de grenat rose brut"
+  "block.testmod.raw_pink_garnet_block": "Bloc de grenat rose brut",
+
+  "itemgroup.testmod.pink_garnet_items": "Objets de grenat rose",
+  "itemgroup.testmod.pink_garnet_blocks": "Blocs de grenat rose"
 }
