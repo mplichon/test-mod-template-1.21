@@ -2,6 +2,7 @@ package net.triv.testmod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.triv.testmod.block.ModBlocks;
 import net.triv.testmod.item.ModItemGroups;
 import net.triv.testmod.item.ModItems;
@@ -18,5 +19,7 @@ public class TestMod implements ModInitializer {
 
         ModItems.registerModItems();
         ModBlocks.registerModBlocks();
+
+        FuelRegistry.INSTANCE.add(ModItems.STARLIGHT_ASHES, 600);
 	}
 }
