@@ -12,5 +12,10 @@
   "block.testmod.magic_block": "Magic Block",
 
   "itemgroup.testmod.pink_garnet_items": "Pink Garnet Items",
-  "itemgroup.testmod.pink_garnet_blocks": "Pink Garnet Blocks"
+  "itemgroup.testmod.pink_garnet_blocks": "Pink Garnet Blocks",
+
+  "tooltip.testmod.magic_block.tooltip": "This block is very, very MAGICAL",
+  "tooltip.testmod.chisel.shift_down": "This item chisels blocks into Bricks!",
+  "tooltip.testmod.chisel": "Press §eShift§r for more Information!",
+  "tooltip.testmod.cauliflower.tooltip": "This is delicious!"
 }

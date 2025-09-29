@@ -13,5 +13,10 @@
   "block.testmod.magic_block": "Bloc magique",
 
   "itemgroup.testmod.pink_garnet_items": "Objets de grenat rose",
-  "itemgroup.testmod.pink_garnet_blocks": "Blocs de grenat rose"
+  "itemgroup.testmod.pink_garnet_blocks": "Blocs de grenat rose",
+
+  "tooltip.testmod.magic_block.tooltip": "Ce bloc est très, très §9MAGIQUE§r",
+  "tooltip.testmod.chisel.shift_down": "Cet objet transforme les blocs en briques !",
+  "tooltip.testmod.chisel": "Appuie sur §eMaj§r pour plus d'informations !",
+  "tooltip.testmod.cauliflower.tooltip": "C'est délicieux !"
 }
