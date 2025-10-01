@@ -1,0 +1,6 @@
+// 1.21	2025-10-01T18:18:02.7612709	Test Mod/Block Loot Tables
+668fc3c08b71d2b115de1c6861393552b07fe3bd data\testmod\loot_table\blocks\pink_garnet_ore.json
+c461af33ca70128bddcd4c2fd9eba2a8bccfae44 data\testmod\loot_table\blocks\pink_garnet_block.json
+ff7590126ede9ddfc81ec8871a83730bf815a1d8 data\testmod\loot_table\blocks\magic_block.json
+f8916f7fd760c25009d5399c6abe610ede1c882a data\testmod\loot_table\blocks\pink_garnet_deepslate_ore.json
+81f7ef8e00f00da9e179bf5375dd278a2007e772 data\testmod\loot_table\blocks\raw_pink_garnet_block.json

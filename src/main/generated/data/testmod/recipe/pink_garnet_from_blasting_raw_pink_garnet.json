@@ -1,8 +1,8 @@
 {
-  "type": "minecraft:smelting",
+  "type": "minecraft:blasting",
   "category": "misc",
   "cookingtime": 200,
-  "experience": 0.2,
+  "experience": 0.25,
   "group": "pink_garnet",
   "ingredient": {
     "item": "testmod:raw_pink_garnet"

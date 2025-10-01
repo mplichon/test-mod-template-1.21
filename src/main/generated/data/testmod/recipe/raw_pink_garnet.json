@@ -3,11 +3,11 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "testmod:pink_garnet_block"
+      "item": "testmod:raw_pink_garnet_block"
     }
   ],
   "result": {
     "count": 9,
-    "id": "testmod:pink_garnet"
+    "id": "testmod:raw_pink_garnet"
   }
 }

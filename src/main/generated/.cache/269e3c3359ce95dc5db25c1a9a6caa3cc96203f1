@@ -1,0 +1,4 @@
+// 1.21	2025-10-01T18:18:02.7510699	Test Mod/Tags for minecraft:block
+0685cb2a08ce17508aaab99b8dcd92eb500c26d0 data\minecraft\tags\block\needs_diamond_tool.json
+d2445fb23e439da098ecf9b95554d2019e073b8e data\minecraft\tags\block\needs_iron_tool.json
+6d83f24b9aede07583d7c7720f438dd6abde6248 data\minecraft\tags\block\mineable\pickaxe.json
