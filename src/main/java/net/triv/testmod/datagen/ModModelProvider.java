@@ -2,10 +2,10 @@ package net.triv.testmod.datagen;
 
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricModelProvider;
-import net.minecraft.data.client.BlockStateModelGenerator;
-import net.minecraft.data.client.ItemModelGenerator;
-import net.minecraft.data.client.Models;
+import net.minecraft.data.client.*;
+import net.minecraft.util.Identifier;
 import net.triv.testmod.block.ModBlocks;
+import net.triv.testmod.block.custom.PinkGarnetLampBlock;
 import net.triv.testmod.item.ModItems;
 
 public class ModModelProvider extends FabricModelProvider {
@@ -23,6 +23,7 @@ public class ModModelProvider extends FabricModelProvider {
 
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.MAGIC_BLOCK);
 
+        // Variants of Pink Garnet Block
         pinkGarnetPool.stairs(ModBlocks.PINK_GARNET_STAIRS);
         pinkGarnetPool.slab(ModBlocks.PINK_GARNET_SLAB);
         pinkGarnetPool.button(ModBlocks.PINK_GARNET_BUTTON);
@@ -33,6 +34,12 @@ public class ModModelProvider extends FabricModelProvider {
 
         blockStateModelGenerator.registerDoor(ModBlocks.PINK_GARNET_DOOR);
         blockStateModelGenerator.registerTrapdoor(ModBlocks.PINK_GARNET_TRAPDOOR);
+
+        // Pink Garnet Lamp
+        Identifier lampOffIdentifier = TexturedModel.CUBE_ALL.upload(ModBlocks.PINK_GARNET_LAMP, blockStateModelGenerator.modelCollector);
+        Identifier lampOnIdentifier = blockStateModelGenerator.createSubModel(ModBlocks.PINK_GARNET_LAMP, "_on", Models.CUBE_ALL, TextureMap::all);
+        blockStateModelGenerator.blockStateCollector.accept(VariantsBlockStateSupplier.create(ModBlocks.PINK_GARNET_LAMP)
+                .coordinate(BlockStateModelGenerator.createBooleanModelMap(PinkGarnetLampBlock.CLICKED, lampOnIdentifier, lampOffIdentifier)));
 
     }
 
