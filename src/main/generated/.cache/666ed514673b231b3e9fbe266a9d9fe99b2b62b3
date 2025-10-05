@@ -1,2 +1,7 @@
-// 1.21	2025-10-02T19:55:18.3380882	Test Mod/Tags for minecraft:item
+// 1.21	2025-10-05T17:39:32.3922613	Test Mod/Tags for minecraft:item
+e8b64063c93589526a9b3ce28137fb62bddac627 data\minecraft\tags\item\swords.json
+729ebed2ee5f6d6bc837c4d18db208f3c29e2bfe data\minecraft\tags\item\hoes.json
+7e5fc996955b30107396fe8580c920ef90ff325f data\minecraft\tags\item\pickaxes.json
+afbe031bbbbd519cc3a49302f3a7b047c170f709 data\minecraft\tags\item\axes.json
 b2f37a3a62a51ed882f576625ab787ea07bc98e2 data\testmod\tags\item\transformable_items.json
+e12091ebcdbdb3227cc122435af9ac0843f27be7 data\minecraft\tags\item\shovels.json

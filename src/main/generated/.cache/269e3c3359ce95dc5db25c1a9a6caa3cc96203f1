@@ -1,7 +1,8 @@
-// 1.21	2025-10-02T19:55:18.335086	Test Mod/Tags for minecraft:block
-0685cb2a08ce17508aaab99b8dcd92eb500c26d0 data\minecraft\tags\block\needs_diamond_tool.json
+// 1.21	2025-10-05T17:39:32.3892647	Test Mod/Tags for minecraft:block
+32376a52739d4f868e6b312719ce93c13b1e32b9 data\minecraft\tags\block\needs_diamond_tool.json
 d2445fb23e439da098ecf9b95554d2019e073b8e data\minecraft\tags\block\needs_iron_tool.json
 382d3918c24c0efda33ae0bfe1b796e63d5be382 data\minecraft\tags\block\fences.json
 6d83f24b9aede07583d7c7720f438dd6abde6248 data\minecraft\tags\block\mineable\pickaxe.json
 3f9a3eb5f119077fd00c71f779ff7a23d6601576 data\minecraft\tags\block\fence_gates.json
+587c59bf36469c39e8e291af3356651e0cf691c1 data\testmod\tags\block\needs_pink_garnet_tool.json
 817f344407adfeb08d16dd2fb338a5d7d0ab538b data\minecraft\tags\block\walls.json

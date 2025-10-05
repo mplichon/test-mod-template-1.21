@@ -4,6 +4,11 @@
   "item.testmod.chisel": "Burin",
   "item.testmod.cauliflower": "Chou-fleur",
   "item.testmod.starlight_ashes": "Cendres de lumière d'étoile",
+  "item.testmod.pink_garnet_sword": "Épée en grenat rose",
+  "item.testmod.pink_garnet_pickaxe": "Pioche en grenat rose",
+  "item.testmod.pink_garnet_shovel": "Pelle en grenat rose",
+  "item.testmod.pink_garnet_axe": "Hache en grenat rose",
+  "item.testmod.pink_garnet_hoe": "Houe en grenat rose",
 
 
   "block.testmod.pink_garnet_block": "Bloc de grenat rose",
