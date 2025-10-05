@@ -2,11 +2,13 @@ package net.triv.testmod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.event.player.PlayerBlockBreakEvents;
 import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.triv.testmod.block.ModBlocks;
 import net.triv.testmod.component.ModDataComponentTypes;
 import net.triv.testmod.item.ModItemGroups;
 import net.triv.testmod.item.ModItems;
+import net.triv.testmod.util.HammerUsageEvent;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -23,5 +25,7 @@ public class TestMod implements ModInitializer {
         ModDataComponentTypes.registerDataComponentTypes();
 
         FuelRegistry.INSTANCE.add(ModItems.STARLIGHT_ASHES, 600);
+
+        PlayerBlockBreakEvents.BEFORE.register(new HammerUsageEvent());
 	}
 }
