@@ -1,9 +1,9 @@
-// 1.21	2025-10-05T22:34:37.2435998	Test Mod/Block Loot Tables
+// 1.21	2025-10-06T20:23:00.0024978	Test Mod/Block Loot Tables
 4314730d1d26daf32f4db752c0c3c5852147ef12 data\testmod\loot_table\blocks\pink_garnet_button.json
 66d9648d7402aa8f98222d78581c5e3256360b01 data\testmod\loot_table\blocks\pink_garnet_slab.json
 6adaa88ee1e08d8aea24c21c3ced9597b9dba08f data\testmod\loot_table\blocks\pink_garnet_pressure_plate.json
-ff7590126ede9ddfc81ec8871a83730bf815a1d8 data\testmod\loot_table\blocks\magic_block.json
 c461af33ca70128bddcd4c2fd9eba2a8bccfae44 data\testmod\loot_table\blocks\pink_garnet_block.json
+ff7590126ede9ddfc81ec8871a83730bf815a1d8 data\testmod\loot_table\blocks\magic_block.json
 f886a24cc0c0b69ba08605b722a42787b9ed8e94 data\testmod\loot_table\blocks\pink_garnet_fence_gate.json
 2ea3a1b231790b56e0203fb2153c88b021ebf47b data\testmod\loot_table\blocks\pink_garnet_stairs.json
 81f7ef8e00f00da9e179bf5375dd278a2007e772 data\testmod\loot_table\blocks\raw_pink_garnet_block.json
