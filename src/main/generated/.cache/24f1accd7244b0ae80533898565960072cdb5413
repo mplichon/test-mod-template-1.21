@@ -1,4 +1,4 @@
-// 1.21	2025-10-06T20:22:59.9903057	Test Mod/Model Definitions
+// 1.21	2025-10-07T19:42:53.8242214	Test Mod/Model Definitions
 3c8ef74130c839d723e52030f16bfb09caa1caaf assets\testmod\blockstates\pink_garnet_fence.json
 cc50a7a849cdd9d0b67f8aa2c4d25bb19e652032 assets\testmod\models\block\pink_garnet_wall_side.json
 2ee26bae9ef0144af401c53bba7fee8cf9958364 assets\testmod\models\item\pink_garnet_boots_netherite_trim.json
@@ -59,6 +59,7 @@ b03f11422aa72120c6d9d019d3d9c194a2fad29d assets\testmod\models\block\pink_garnet
 42a2480f5d8f585450553b8df2bbb7bb1fdb7ef5 assets\testmod\models\item\pink_garnet_fence.json
 1f1d55063d90fea0e914764a5acf34f8745dd9ed assets\testmod\models\item\pink_garnet_helmet_copper_trim.json
 143dc14723df12d3a62917947e22ac4cae01ada2 assets\testmod\models\item\pink_garnet_boots.json
+7fa086972e218439580110d19c5ad1e18d620901 assets\testmod\models\item\kaupen_armor_trim_smithing_template.json
 f282047fba8ee2c657546fbdb22e37ad6d0fd1a9 assets\testmod\blockstates\pink_garnet_door.json
 2bcc7c8fb91f2962c45994764907beee39acdc0b assets\testmod\models\item\pink_garnet_wall.json
 b72f4c87279d5ffb2c2d1bb9bc6809db9c0eb535 assets\testmod\models\item\pink_garnet_trapdoor.json
@@ -83,8 +84,8 @@ b3f93cfd121410462227fa923a4b4f0cd89553e8 assets\testmod\blockstates\pink_garnet_
 6f6de3d287921725f65bf454246a2d3e304986be assets\testmod\models\item\pink_garnet_chestplate_iron_trim.json
 7b9bf426445b5aa542491721b40e33a9e1304410 assets\testmod\models\item\pink_garnet_boots_redstone_trim.json
 09a806fe614c1e7f389ce5fa5459dcfe6e6455e2 assets\testmod\models\item\pink_garnet_block.json
-c208ec43fa86882c5cf0cfffbc412e1c66dc6eba assets\testmod\models\item\magic_block.json
 f62772030d8b9fadbf33733fc6434ffbec1e8fcd assets\testmod\models\item\pink_garnet_helmet_quartz_trim.json
+c208ec43fa86882c5cf0cfffbc412e1c66dc6eba assets\testmod\models\item\magic_block.json
 7a74c4ad7a572d1d18174901d2e0b93007102b7d assets\testmod\models\item\pink_garnet_leggings_lapis_trim.json
 0ae3b22630eaffaab44230e5f6602ba3a5e68e7b assets\testmod\models\item\pink_garnet_helmet_diamond_trim.json
 e77189aef62657d4982f61db717cf29bc66bafda assets\testmod\models\block\pink_garnet_fence_gate.json

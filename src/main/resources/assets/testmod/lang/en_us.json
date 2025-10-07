@@ -15,6 +15,7 @@
   "item.testmod.pink_garnet_leggings": "Pink Garnet Leggings",
   "item.testmod.pink_garnet_boots": "Pink Garnet Boots",
   "item.testmod.pink_garnet_horse_armor": "Pink Garnet Horse Armor",
+  "item.testmod.kaupen_armor_trim_smithing_template": "Kaupen Smithing Template",
 
   "block.testmod.pink_garnet_block": "Block of Pink Garnet",
   "block.testmod.raw_pink_garnet_block": "Block of Raw Pink Garnet",
@@ -38,5 +39,8 @@
   "tooltip.testmod.magic_block.tooltip": "This block is very, very MAGICAL",
   "tooltip.testmod.chisel.shift_down": "This item chisels blocks into Bricks!",
   "tooltip.testmod.chisel": "Press §eShift§r for more Information!",
-  "tooltip.testmod.cauliflower.tooltip": "This is delicious!"
+  "tooltip.testmod.cauliflower.tooltip": "This is delicious!",
+
+  "trim_material.testmod.pink_garnet": "Pink Garnet Material",
+  "trim_pattern.testmod.kaupen": "Kaupen Armor Pattern"
 }

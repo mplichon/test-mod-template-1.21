@@ -15,6 +15,7 @@
   "item.testmod.pink_garnet_leggings": "Jambières en grenat rose",
   "item.testmod.pink_garnet_boots": "Bottes en grenat rose",
   "item.testmod.pink_garnet_horse_armor": "Armure de cheval en grenat rose",
+  "item.testmod.kaupen_armor_trim_smithing_template": "Modèle de forge",
 
 
   "block.testmod.pink_garnet_block": "Bloc de grenat rose",
@@ -39,5 +40,8 @@
   "tooltip.testmod.magic_block.tooltip": "Ce bloc est très, très §9MAGIQUE§r",
   "tooltip.testmod.chisel.shift_down": "Cet objet transforme les blocs en briques !",
   "tooltip.testmod.chisel": "Appuie sur §eMaj§r pour plus d'informations !",
-  "tooltip.testmod.cauliflower.tooltip": "C'est délicieux !"
+  "tooltip.testmod.cauliflower.tooltip": "C'est délicieux !",
+
+  "trim_material.testmod.pink_garnet": "En grenat rose",
+  "trim_pattern.testmod.kaupen": "Ornement de kaupen"
 }
