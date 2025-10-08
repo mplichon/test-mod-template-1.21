@@ -13,6 +13,7 @@ import net.minecraft.util.math.intprovider.UniformIntProvider;
 import net.triv.testmod.TestMod;
 import net.triv.testmod.block.custom.MagicBlock;
 import net.triv.testmod.block.custom.PinkGarnetLampBlock;
+import net.triv.testmod.sound.ModSounds;
 
 public class ModBlocks {
 
@@ -35,7 +36,7 @@ public class ModBlocks {
                     AbstractBlock.Settings.create().strength(3f).requiresTool().sounds(BlockSoundGroup.DEEPSLATE)));
 
     public static final Block MAGIC_BLOCK = registerBlock("magic_block",
-            new MagicBlock(AbstractBlock.Settings.create().strength(1f).requiresTool()));
+            new MagicBlock(AbstractBlock.Settings.create().strength(1f).requiresTool().sounds(ModSounds.MAGIC_BLOCK_SOUNDS)));
 
     public static final Block PINK_GARNET_LAMP =registerBlock("pink_garnet_lamp",
             new PinkGarnetLampBlock(AbstractBlock.Settings.create()

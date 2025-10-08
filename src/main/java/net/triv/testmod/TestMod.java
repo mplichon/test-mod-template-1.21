@@ -15,6 +15,7 @@ import net.triv.testmod.block.ModBlocks;
 import net.triv.testmod.component.ModDataComponentTypes;
 import net.triv.testmod.item.ModItemGroups;
 import net.triv.testmod.item.ModItems;
+import net.triv.testmod.sound.ModSounds;
 import net.triv.testmod.util.HammerUsageEvent;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -29,6 +30,7 @@ public class TestMod implements ModInitializer {
 
         ModItems.registerModItems();
         ModBlocks.registerModBlocks();
+        ModSounds.registerModSounds();
         ModDataComponentTypes.registerDataComponentTypes();
 
         FuelRegistry.INSTANCE.add(ModItems.STARLIGHT_ASHES, 600);
