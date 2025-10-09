@@ -14,9 +14,11 @@
   "item.testmod.pink_garnet_chestplate": "Plastron en grenat rose",
   "item.testmod.pink_garnet_leggings": "Jambières en grenat rose",
   "item.testmod.pink_garnet_boots": "Bottes en grenat rose",
-  "item.testmod.pink_garnet_horse_armor": "Armure de cheval en grenat rose",
+  "item.testmod.pink_garnet_horse_armor": "Armure en grenat rose pour cheval",
   "item.testmod.kaupen_armor_trim_smithing_template": "Modèle de forge",
   "item.testmod.kaupen_bow": "Arc de kaupen",
+  "item.testmod.bar_brawl_music_disc": "Disque",
+  "item.testmod.bar_brawl_music_disc.desc": "Bryan Tech - Bar Brawl (CC0)",
 
 
   "block.testmod.pink_garnet_block": "Bloc de grenat rose",
