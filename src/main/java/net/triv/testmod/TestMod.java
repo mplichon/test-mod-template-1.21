@@ -13,6 +13,7 @@ import net.minecraft.text.Text;
 import net.minecraft.util.ActionResult;
 import net.triv.testmod.block.ModBlocks;
 import net.triv.testmod.component.ModDataComponentTypes;
+import net.triv.testmod.effect.ModEffects;
 import net.triv.testmod.item.ModItemGroups;
 import net.triv.testmod.item.ModItems;
 import net.triv.testmod.sound.ModSounds;
@@ -31,6 +32,7 @@ public class TestMod implements ModInitializer {
         ModItems.registerModItems();
         ModBlocks.registerModBlocks();
         ModSounds.registerModSounds();
+        ModEffects.registerEffects();
         ModDataComponentTypes.registerDataComponentTypes();
 
         FuelRegistry.INSTANCE.add(ModItems.STARLIGHT_ASHES, 600);
