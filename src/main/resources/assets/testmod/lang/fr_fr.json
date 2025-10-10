@@ -20,6 +20,9 @@
   "item.testmod.bar_brawl_music_disc": "Disque",
   "item.testmod.bar_brawl_music_disc.desc": "Bryan Tech - Bar Brawl (CC0)",
 
+  "item.minecraft.potion.effect.slimey_potion": "Potion de colle",
+  "item.minecraft.splash_potion.effect.slimey_potion": "Potion de colle jetable",
+  "item.minecraft.potion.effect.lingering_slimey_potion": "Potion de colle persistante",
 
   "block.testmod.pink_garnet_block": "Bloc de grenat rose",
   "block.testmod.raw_pink_garnet_block": "Bloc de grenat rose brut",
@@ -36,6 +39,8 @@
   "block.testmod.pink_garnet_trapdoor": "Trappe en grenat rose",
   "block.testmod.magic_block": "Bloc magique",
   "block.testmod.pink_garnet_lamp": "Lampe de grenat rose",
+
+  "effect.testmod.slimey": "Collant",
 
   "itemgroup.testmod.pink_garnet_items": "Objets de grenat rose",
   "itemgroup.testmod.pink_garnet_blocks": "Blocs de grenat rose",

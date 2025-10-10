@@ -20,6 +20,10 @@
   "item.testmod.bar_brawl_music_disc": "Bar Brawl Music Disc",
   "item.testmod.bar_brawl_music_disc.desc": "Bryan Tech - Bar Brawl (CC0)",
 
+  "item.minecraft.potion.effect.slimey_potion": "Slimey Potion",
+  "item.minecraft.splash_potion.effect.slimey_potion": "Slimey Splash Potion",
+  "item.minecraft.potion.effect.lingering_slimey_potion": "Slimey Lingering Potion",
+
   "block.testmod.pink_garnet_block": "Block of Pink Garnet",
   "block.testmod.raw_pink_garnet_block": "Block of Raw Pink Garnet",
   "block.testmod.pink_garnet_ore": "Pink Garnet Ore",
@@ -35,6 +39,8 @@
   "block.testmod.pink_garnet_trapdoor": "Pink Garnet Trapdoor",
   "block.testmod.magic_block": "Magic Block",
   "block.testmod.pink_garnet_lamp": "Pink Garnet Lamp",
+
+  "effect.testmod.slimey": "Slimey",
 
   "itemgroup.testmod.pink_garnet_items": "Pink Garnet Items",
   "itemgroup.testmod.pink_garnet_blocks": "Pink Garnet Blocks",
