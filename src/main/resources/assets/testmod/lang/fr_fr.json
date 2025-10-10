@@ -42,6 +42,13 @@
 
   "effect.testmod.slimey": "Collant",
 
+  "painting.testmod.world.title": "World",
+  "painting.testmod.world.author": "NanoAttack",
+  "painting.testmod.shrimp.title": "Shrimp",
+  "painting.testmod.shrimp.author": "NanoAttack",
+  "painting.testmod.saw_them.title": "Saw Them",
+  "painting.testmod.saw_them.author": "NanoAttack",
+
   "itemgroup.testmod.pink_garnet_items": "Objets de grenat rose",
   "itemgroup.testmod.pink_garnet_blocks": "Blocs de grenat rose",
 
