@@ -19,6 +19,7 @@
   "item.testmod.kaupen_bow": "Arc de kaupen",
   "item.testmod.bar_brawl_music_disc": "Disque",
   "item.testmod.bar_brawl_music_disc.desc": "Bryan Tech - Bar Brawl (CC0)",
+  "item.testmod.cauliflower_seeds": "Graines de chou-fleur",
 
   "item.minecraft.potion.effect.slimey_potion": "Potion de colle",
   "item.minecraft.splash_potion.effect.slimey_potion": "Potion de colle jetable",
@@ -39,6 +40,7 @@
   "block.testmod.pink_garnet_trapdoor": "Trappe en grenat rose",
   "block.testmod.magic_block": "Bloc magique",
   "block.testmod.pink_garnet_lamp": "Lampe de grenat rose",
+  "block.testmod.cauliflower_crop": "Plant de chou-fleur",
 
   "effect.testmod.slimey": "Collant",
 

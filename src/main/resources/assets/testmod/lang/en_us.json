@@ -19,6 +19,7 @@
   "item.testmod.kaupen_bow": "Kaupen Bow",
   "item.testmod.bar_brawl_music_disc": "Bar Brawl Music Disc",
   "item.testmod.bar_brawl_music_disc.desc": "Bryan Tech - Bar Brawl (CC0)",
+  "item.testmod.cauliflower_seeds": "Cauliflower Seeds",
 
   "item.minecraft.potion.effect.slimey_potion": "Slimey Potion",
   "item.minecraft.splash_potion.effect.slimey_potion": "Slimey Splash Potion",
@@ -39,6 +40,7 @@
   "block.testmod.pink_garnet_trapdoor": "Pink Garnet Trapdoor",
   "block.testmod.magic_block": "Magic Block",
   "block.testmod.pink_garnet_lamp": "Pink Garnet Lamp",
+  "block.testmod.cauliflower_crop": "Cauliflower Crop",
 
   "effect.testmod.slimey": "Slimey",
 
