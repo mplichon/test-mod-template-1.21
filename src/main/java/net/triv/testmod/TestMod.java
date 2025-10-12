@@ -16,6 +16,7 @@ import net.minecraft.util.ActionResult;
 import net.triv.testmod.block.ModBlocks;
 import net.triv.testmod.component.ModDataComponentTypes;
 import net.triv.testmod.effect.ModEffects;
+import net.triv.testmod.enchantment.ModEnchantmentEffects;
 import net.triv.testmod.item.ModItemGroups;
 import net.triv.testmod.item.ModItems;
 import net.triv.testmod.potion.ModPotions;
@@ -37,6 +38,7 @@ public class TestMod implements ModInitializer {
         ModSounds.registerModSounds();
         ModEffects.registerEffects();
         ModPotions.registerPotions();
+        ModEnchantmentEffects.registerEnchantmentEffects();
         ModDataComponentTypes.registerDataComponentTypes();
 
         FuelRegistry.INSTANCE.add(ModItems.STARLIGHT_ASHES, 600);

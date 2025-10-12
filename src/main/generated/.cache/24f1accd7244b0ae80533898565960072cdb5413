@@ -1,4 +1,4 @@
-// 1.21	2025-10-09T21:56:45.6522565	Test Mod/Model Definitions
+// 1.21	2025-10-12T15:32:39.5365537	Test Mod/Model Definitions
 3c8ef74130c839d723e52030f16bfb09caa1caaf assets\testmod\blockstates\pink_garnet_fence.json
 cc50a7a849cdd9d0b67f8aa2c4d25bb19e652032 assets\testmod\models\block\pink_garnet_wall_side.json
 2ee26bae9ef0144af401c53bba7fee8cf9958364 assets\testmod\models\item\pink_garnet_boots_netherite_trim.json
@@ -9,8 +9,8 @@ bdf0fc0c3503ecb73ccc0591ee612a73e81d52c6 assets\testmod\models\item\pink_garnet_
 d04a5c9b51d0edf687cb71f824b974ae93d5c92a assets\testmod\models\item\pink_garnet_helmet_emerald_trim.json
 30aa54e275e634b8a8ec5d3f8129cc57aee1bb73 assets\testmod\blockstates\pink_garnet_button.json
 93d203a096a3c92c992c8b4c7c39d226d64c0089 assets\testmod\models\block\pink_garnet_stairs_outer.json
-27173a138a6f0da248a91fc6ab0213b0e7d2c882 assets\testmod\models\block\pink_garnet_door_top_left_open.json
 ffdb2fc696b9412cc89923b063d9ec37b331468e assets\testmod\models\block\pink_garnet_door_bottom_left_open.json
+27173a138a6f0da248a91fc6ab0213b0e7d2c882 assets\testmod\models\block\pink_garnet_door_top_left_open.json
 10be954c22718df4802645d24d0c6dd15d6ad8e0 assets\testmod\models\block\pink_garnet_fence_gate_wall.json
 4cfa374f87e0231785cb5966a5a0cbb96a250212 assets\testmod\models\item\pink_garnet_leggings.json
 54feae999bc6dbce77371696219af9c6ffccce37 assets\testmod\models\item\pink_garnet_button.json
